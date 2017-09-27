@@ -1,2 +1,2 @@
 Index_camera 0
-Index_resolution 320x240
+Index_resolution 640x480

@@ -47,3 +47,6 @@ C:\Users\Gretc\Desktop\ProjectOfGOD\ProjectOfGOD\obj\Debug\ProjectOfGOD.Data_gri
 C:\Users\Gretc\Desktop\ProjectOfGOD\ProjectOfGOD\obj\Debug\ProjectOfGOD.Settings.resources
 C:\Users\Gretc\Desktop\ProjectOfGOD\ProjectOfGOD\obj\Debug\ProjectOfGOD.Help.resources
 C:\Users\Gretc\Desktop\ProjectOfGOD\ProjectOfGOD\obj\Debug\ProjectOfGOD.csprojResolveAssemblyReference.cache
+C:\GitHub\FaceDetected\FaceDetected\bin\Debug\ProjectOfGOD.exe.config
+C:\GitHub\FaceDetected\FaceDetected\obj\Debug\ProjectOfGOD.exe
+C:\GitHub\FaceDetected\FaceDetected\obj\Debug\ProjectOfGOD.pdb
